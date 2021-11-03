@@ -1,4 +1,5 @@
-### Hi there 👋
+### My name is Adeyinka Koya. I am an UI/UX Designer and a Frontend Developer.
+
 
 <!--
 **adeyinkakoya/adeyinkakoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
